@@ -1,0 +1,19 @@
+1) new Car();
+
+2) new Bean(4)
+
+3) new Airplane(999L)
+
+4) new Bus(99)
+
+5) new SkiLift(8, 8F, 9F)
+
+6) new Gondola(8)
+
+7) new Data(args)
+
+8) new CelestialObject(5.5)
+
+9) new Sun(6.6)
+
+10) new Pluto(false)
